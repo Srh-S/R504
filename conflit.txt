@@ -1,1 +1,2 @@
 test pour conflit
+Modification pour le commit et pouvoir rajouter un tag.
